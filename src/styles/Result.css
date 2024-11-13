@@ -1,0 +1,32 @@
+.result {
+    text-align: center;
+    padding: 20px;
+}
+
+.result h1 {
+    font-size: 2.5rem;
+}
+
+.result h2 {
+    font-size: 1.5rem;
+    color: #14302d;
+}
+
+.result p {
+    font-size: 1rem;
+    color: #333;
+}
+
+.wrong-answer {
+    background-color: #ffe6e6;
+    border-left: 5px solid #d32f2f;
+    padding: 15px;
+    margin: 10px 0;
+    border-radius: 5px;
+    text-align: left;
+}
+
+.wrong-answer p {
+    margin: 5px 0;
+    color: #d32f2f;
+}

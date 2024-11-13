@@ -1,0 +1,8 @@
+.timer {
+    font-size: 1.2rem;
+    color: #00796b;
+}
+
+.timer.low-time {
+    color: #d32f2f;
+}

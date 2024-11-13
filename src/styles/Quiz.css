@@ -1,0 +1,19 @@
+.quiz {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    background-color: #e0f7fa;
+    min-height: 100vh;
+}
+
+.quiz h1 {
+    font-size: 2rem;
+    color: #00796b;
+}
+
+.quiz .score-timer {
+    display: flex;
+    gap: 15px;
+    margin: 20px 0;
+}
